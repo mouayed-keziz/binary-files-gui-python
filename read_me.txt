@@ -4,7 +4,7 @@ Prenom : Mouayed
 Groupe :B4
 (Travail fait en MONOME)
 
-Bonjour madame, j'ai fait l'implementation des fonctions (recherche, insertion, suppression) de 6 types des fichiers (TOV_C n'est pas dans le programme principale, mais implementé)
+l'implementation des fonctions (recherche, insertion, suppression) de 6 types des fichiers (TOV_C n'est pas dans le programme principale, mais implementé)
 Les 5 types dans l'applications marchent sans aucun problème
 
 Veuillez lancer GUI_Main.py qui se trouve dans le dossier src
